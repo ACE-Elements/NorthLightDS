@@ -1,0 +1,239 @@
+/*Font Imports*/
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend+Giga:wght@100..900&family=Montserrat+Alternates:wght@600&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Smooch+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend+Giga:wght@100..900&family=Montserrat+Alternates:wght@600&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Smooch+Sans:wght@100..900&display=swap');
+/*Font Imports*/
+
+header {
+    text-align: center;
+    background-color: #FDFCFB;
+}
+
+/* Website Links except the nav */
+
+a:link{
+    color: #FFA500;
+    text-decoration: none;
+}
+a:visited{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: #1B2A41;
+    text-decoration: none;
+}
+a:active{
+    color: royalblue;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.01em;
+}
+
+nav {
+    background-color: #1B2A41;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+li {
+    color: black;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 8px 0;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    padding: 5px;
+}
+
+nav a:link {
+    color: cornsilk;
+    text-decoration: none;
+}
+
+nav a:visited {
+    color: lightgray;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #FFA500;
+    text-decoration: none;
+}
+
+nav a:active {
+    color: royalblue;
+    text-decoration: none;
+}
+
+body {
+    font-family: "Nunito", serif;
+    margin: 0;
+    color: #000000;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Josefin Sans", serif;
+    color: #1B2A41;
+}
+
+h5 {
+    margin-top: 3%;
+    color: #FFA500;
+}
+
+main {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+footer {
+    border-top: 3px solid #1B2A41;
+    text-align: center;
+    background-color: #1B2A41;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    padding-bottom: 3%;
+}
+
+.fa-brands {
+    font-size: 2em;
+    padding: 3%;
+    text-align: start;
+}
+
+.fa-facebook {
+    color: #1877F2;
+}
+
+.fa-instagram {
+    color: #e95950;
+}
+
+.fa-google {
+    color: #0F9D58;
+}
+
+.col-sm-6 {
+    margin-top: 2%;
+}
+
+small {
+    color: cornsilk;
+}
+
+.site-logo {
+    width: 325px;
+    height: 325px;
+    padding: 5%;
+}
+
+.aboutUs-img {
+    float: right;
+    border-radius: 10%;
+    margin-left: 5%;
+}
+
+.services-small {
+    color: black;
+}
+
+hr {
+        border: 1px solid #1B2A41;
+}
+
+.alacart-text {
+    margin-top: 3%;
+}
+
+iframe {
+    border-radius: 10px;
+    margin-bottom: 3%;
+    max-width: 100%;
+}
+
+.hero-image {
+    max-width: 180px;
+}
+
+.resource-header {
+    text-decoration: underline;
+    margin-bottom: 3%;
+}
+
+#contact-us-header {
+    text-align: center;
+}
+
+.alert-header {
+    color: #1B2A41;
+}
+
+.alert-text {
+    color: #1B2A41;
+}
+
+.alert-small {
+    color: #1B2A41;
+}
+
+/*No editing beyond this point except for breakpoints!!!*/
+@media only screen and (max-width: 1024px) {
+    h1 {
+        font-size: 2em;
+    }
+    .fa-brands {
+        font-size: 1.5em;
+    }
+    .aboutUs-img {
+        margin-bottom: 4%;
+    }
+    .site-logo {
+        padding: 2%;
+    }
+    h2 {
+        padding-top: 2%;
+    }
+    .contact-us {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+    .fa-brands {
+        font-size: 1.5em;
+    }
+    .aboutUs-img {
+        margin-bottom: 3%;
+    }
+    .site-logo {
+        padding: 1%;
+    }
+    h2 {
+        padding-top: 2%;
+    }
+    .contact-us {
+        text-align: center;
+    }
+}

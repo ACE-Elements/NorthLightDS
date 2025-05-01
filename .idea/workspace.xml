@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e2f5ad7-b463-4fe1-a69d-fe4893584a7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hosting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/saintpaul.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/seo-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/webdev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ACE-Elements"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ACE-Elements/NorthLightDS.git",
+    "accountId": "c99072ef-be02-479d-9d7b-994bd04c4db9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2s5DETqMeUFRXa4TFWo3daLwc9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.columns.html.executor": "Run",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.resources.html.executor": "Run",
+    "JavaScript Debug.services.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/anthonycole/Desktop/Projects - Software Development/school/websites/final",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2f5ad7-b463-4fe1-a69d-fe4893584a7d" name="Changes" comment="" />
+      <created>1737736430932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737736430932</updated>
+      <workItem from="1737736431946" duration="22000" />
+      <workItem from="1737740841374" duration="46000" />
+      <workItem from="1737740913877" duration="11000" />
+      <workItem from="1737746391859" duration="797000" />
+      <workItem from="1737753042083" duration="964000" />
+      <workItem from="1737754135720" duration="27000" />
+      <workItem from="1737754250730" duration="20000" />
+      <workItem from="1737755700627" duration="53000" />
+      <workItem from="1737755826716" duration="1446000" />
+      <workItem from="1737758003232" duration="21000" />
+      <workItem from="1737758094097" duration="3063000" />
+      <workItem from="1737948918487" duration="134000" />
+      <workItem from="1737949150151" duration="2000" />
+      <workItem from="1739240933264" duration="2258000" />
+      <workItem from="1739243511488" duration="16000" />
+      <workItem from="1739316584235" duration="124000" />
+      <workItem from="1739558619653" duration="2681000" />
+      <workItem from="1740347133015" duration="911000" />
+      <workItem from="1740973837823" duration="1067000" />
+      <workItem from="1741752708986" duration="18000" />
+      <workItem from="1744473936922" duration="994000" />
+      <workItem from="1744589357903" duration="2000" />
+      <workItem from="1744589478707" duration="1000" />
+      <workItem from="1744589495522" duration="475000" />
+      <workItem from="1744590044026" duration="1645000" />
+      <workItem from="1745366096115" duration="16000" />
+      <workItem from="1745366121464" duration="1867000" />
+      <workItem from="1745371397169" duration="33932000" />
+      <workItem from="1745591514412" duration="8219000" />
+      <workItem from="1745614826066" duration="3000" />
+      <workItem from="1745615599116" duration="802000" />
+      <workItem from="1745616556999" duration="10000" />
+      <workItem from="1745616619044" duration="27000" />
+      <workItem from="1745616928569" duration="61000" />
+      <workItem from="1745629512183" duration="62000" />
+      <workItem from="1745629745811" duration="20000" />
+      <workItem from="1745629823850" duration="2097000" />
+      <workItem from="1745632258810" duration="1592000" />
+      <workItem from="1745637205960" duration="1494000" />
+      <workItem from="1745640358734" duration="196000" />
+      <workItem from="1745675396865" duration="239000" />
+      <workItem from="1745855445609" duration="77000" />
+      <workItem from="1745873818789" duration="3000" />
+      <workItem from="1745889479806" duration="2970000" />
+      <workItem from="1745892566467" duration="1252000" />
+      <workItem from="1746122868375" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
